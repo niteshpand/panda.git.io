@@ -49,6 +49,7 @@ justify-content:center;
 
 .p_head{
 font-family: 'Gluten', cursive;
+padding-left:5px;
 }
 
 .Sub_content{
@@ -126,6 +127,7 @@ width:25%;
 height:35%;
 color:black;
 padding: 20px;
+border-radius:13px;
 }
 
 .play_logo{
@@ -150,6 +152,8 @@ width:25%;
 height:35%;
 color:black;
 padding: 20px;
+border-radius:13px;
+
 }
 
 .arts_crafts{
@@ -159,6 +163,7 @@ width:25%;
 height:35%;
 color:black;
 padding:20px;
+border-radius:13px;
 }
 
 .arts_logo{
@@ -183,6 +188,7 @@ width:25%;
 height:35%;
 color:black;
 padding: 20px;
+border-radius:13px;
 }
 
 .transport_logo{
@@ -202,6 +208,7 @@ width:25%;
 height:35%;
 color:black;
 padding: 20px;
+border-radius:13px;
 }
 
 .Healthy_logo{
@@ -220,6 +227,7 @@ width:25%;
 height:35%;
 color:black;
 padding: 20px;
+border-radius:13px;
 }
 
 .Educational_logo{
@@ -848,9 +856,17 @@ display:flex;
 justify-content:space-evenly;
 }
 
+.content{
+padding-right:15px;
+padding-left:15px;
+padding-bottom:10px;
+padding-top:15px;
+}
+
 .foot_icon{
 display:flex;
 align-items: center;
+padding-left:15px;
 }
 
 .footer_head{
@@ -860,6 +876,10 @@ padding-left: 15px;
 
 .F_content1{
 color:white;
+padding-bottom:15px;
+padding-left:15px;
+padding-right:15px;
+padding-top:15px;
 }
 
 .foot_icon{
@@ -870,6 +890,8 @@ text-align:center;
 .F_content2{
 color:white;
 font-family: 'Poppins', sans-serif;
+padding-bottom:15px;
+padding-top:15px;
 }
 
 .fa {
@@ -880,18 +902,93 @@ color:#1ba3bb;
 color:#1ba3bb;
 font-family: 'Gluten', cursive;
 }
+
 .adress_cont{
 display: flex;
 }
 
 .adress_sub{
 padding-left: 15px;
-font-family: 'Poppins', sans-serif;
+font-family: 'Gluten', cursive;
+}
+
+.email_cont{
+display: flex;
+}
+
+.email_sub{
+padding-left: 15px;
+font-family: 'Gluten', cursive;
+}
+
+.phone_cont{
+display: flex;
+}
+
+.phone_sub{
+padding-left: 15px;
+font-family: 'Gluten', cursive;
 }
 
 .F_content3{
 color:white;
 font-family: 'Poppins', sans-serif;
+padding-left:15px;
+padding-right:15px
+padding-bottom:15px;
+padding-top:15px;
+}
+
+.home_cont{
+display:flex;
+font-family: 'Gluten', cursive;
+}
+
+.home{
+padding-left:5px;
+}
+
+.about_cont{
+display:flex;
+font-family: 'Gluten', cursive;
+}
+
+.about{
+padding-left:5px;
+}
+
+.our_cont{
+display:flex;
+font-family: 'Gluten', cursive;
+}
+
+.our{
+padding-left:5px;
+}
+
+.teacher_cont{
+display:flex;
+font-family: 'Gluten', cursive;
+}
+
+.teacher{
+padding-left:5px;
+}
+
+.blog_cont{
+display:flex;
+font-family: 'Gluten', cursive;
+}
+.blog{
+padding-left:5px;
+}
+
+.contact_cont{
+display:flex;
+font-family: 'Gluten', cursive;
+}
+.contact{
+padding-left:5px;
 }
 
 .quick_color{
@@ -901,6 +998,10 @@ font-family: 'Gluten', cursive;
 
 .F_content4{
 color:#1ba3bb;
+padding-right:15px;
+padding-left:15px;
+padding-bottom:15px;
+padding-top:15px;
 }
 
 .news_head{
